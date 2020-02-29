@@ -1,6 +1,8 @@
 # wyh*
 *Wash Your Hands
 
+(the world's most viral app)
+
 wyh was built as a 2hr project at [Socratic Bananas](http://www.fullstackacademy.com/) in the heady days of the COVID-19 outbreak
 
 * [Monica He](https://www.linkedin.com/in/ehacinom)
